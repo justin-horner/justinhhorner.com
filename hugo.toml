@@ -9,6 +9,7 @@ brand = "Justin Horner"
 dark_mode = true
 description = "Senior Software Engineer at Meta, Supernatural"
 remote_brand_image = "https://avatars.githubusercontent.com/u/175179517?v=4"
+og_image = "win_bypass"
 # brand_image = "/images/avatar.png"
 
 # Menu
@@ -18,7 +19,7 @@ remote_brand_image = "https://avatars.githubusercontent.com/u/175179517?v=4"
 # Limit:        If the files should be listed, how many should be shown.
 menu = [
     { Name = "About", URL = "/about/", HasChildren = false },
-    { Name = "Blog", URL = "/blog/", Pre = "Recent", HasChildren = true, Limit = 5 },
+    { Name = "Blog", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5 },
 ]
 
 # Social
