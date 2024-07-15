@@ -1,7 +1,7 @@
 ---
 title: "Building Zed on Windows"
 date: 2024-07-13
-draft: true
+draft: false
 tags: ["tools"]
 ---
 
