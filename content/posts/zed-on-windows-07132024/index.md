@@ -9,8 +9,8 @@ tags: ["tools"]
 Have you heard about [Zed](https://zed.dev)? It's that new code editor written in Rust with a focus on performance and collaboration.
 It was made by the folks that brought us Atom and Electron.
 
-I've been waiting to try it out, and it's now we have official binaries for Linux.
-Unfortunately, Windows is a bit behind and still requires a build from source.
+I've been waiting to try it out, and now we have official binaries for Linux.
+Unfortunately, Windows still requires a build from source.
 
 However, it's incredibly easy to do, and I need an excuse to to test the build out since my new project is still on my Mac.
 Thus, I give you this somewhat redundant post to show you how I did it.
