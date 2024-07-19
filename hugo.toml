@@ -72,5 +72,6 @@ text_color_dark = "#EEE"
 
 
 [taxonomies]
-category = "categories"
 tag = "tags"
+series = "series"
+category = "categories"
