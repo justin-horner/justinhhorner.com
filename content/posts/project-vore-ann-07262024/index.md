@@ -1,8 +1,9 @@
 ---
-title: "Announcement - Project Vore"
+title: "Announcing Project Vore"
 date: 2024-07-26
 draft: false
 showTags: true
+slug: announcing-project-vore
 tags: ["godot", "project-vore"]
 ---
 

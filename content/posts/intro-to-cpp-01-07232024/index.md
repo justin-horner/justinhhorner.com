@@ -3,6 +3,7 @@ title: "Announcement - Intro to C++ Series"
 date: 2024-07-23
 draft: true
 showTags: true
+slug: intro-to-cpp/01
 tags: ["c++", "intro-to-c++", "series"]
 ---
 

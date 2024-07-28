@@ -3,6 +3,7 @@ title: "Building Zed on Windows"
 date: 2024-07-13
 draft: false
 showTags: true
+slug: building-zed-on-windows
 tags: ["tools"]
 ---
 

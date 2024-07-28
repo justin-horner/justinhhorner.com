@@ -15,7 +15,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Welcome, nerds'
+# homeIntroTitle = ''
 homeIntroContent = """
 I develop games, game engines and related tools + services. I'm a Senior Software Engineer currently working on [Supernatural](https://getsupernatural.com) at [Meta](https://meta.com)
 """
